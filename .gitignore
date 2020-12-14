@@ -1,0 +1,14 @@
+# Compiled files
+dist/
+
+# Node modules
+node_modules
+
+# Env
+.env
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store

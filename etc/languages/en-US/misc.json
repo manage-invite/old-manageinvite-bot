@@ -1,0 +1,4 @@
+{
+    "PREFIX": "This server's prefix is {{prefix}}.",
+    "MISSING_PERMS": "Your permission level is too low to execute that command. The command requires permission level {{requiredLevel}} ({{requiredTitle}}) and you are level {{userLevel}} ({{userTitle}})."
+}
